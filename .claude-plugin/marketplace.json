@@ -11,7 +11,10 @@
   "plugins": [
     {
       "name": "vibe-coding",
-      "source": "./",
+      "source": {
+        "source": "github",
+        "repo": "aimonk2025/cp-vibecoding-plugin"
+      },
       "description": "Complete software development workflow from idea to production through 5 interactive phases: ideation, documentation, building, debugging, and shipping",
       "version": "1.0.0",
       "author": {
