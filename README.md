@@ -38,8 +38,8 @@ IDEA → DOCS → CODE → FIX → SHIP → LIVE
 
 ```bash
 # Clone the repository
-git clone https://github.com/aimonk2025/cp-vibe-coding.git
-cd cp-vibe-coding
+git clone https://github.com/aimonk2025/cp-vibecoding.git
+cd cp-vibecoding
 
 # Copy skills to Claude skills directory
 cp -r skills/* ~/.claude/skills/
@@ -198,8 +198,8 @@ Start from anywhere based on what you have:
 
 ```bash
 # Clone repository
-git clone https://github.com/aimonk2025/cp-vibe-coding.git
-cd cp-vibe-coding
+git clone https://github.com/aimonk2025/cp-vibecoding.git
+cd cp-vibecoding
 
 # Copy all skills
 cp -r skills/* ~/.claude/skills/
@@ -316,12 +316,12 @@ Contributions welcome!
 4. Test with all 7 skills
 5. Submit a pull request
 
-See [issues](https://github.com/aimonk2025/cp-vibe-coding/issues) for areas needing help.
+See [issues](https://github.com/aimonk2025/cp-vibecoding/issues) for areas needing help.
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/aimonk2025/cp-vibe-coding/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/aimonk2025/cp-vibe-coding/discussions)
+- **Issues:** [GitHub Issues](https://github.com/aimonk2025/cp-vibecoding/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/aimonk2025/cp-vibecoding/discussions)
 
 ## License
 
